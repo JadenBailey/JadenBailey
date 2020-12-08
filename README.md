@@ -36,6 +36,8 @@
 
 ### Projects 📈🤖
 
+  * Alabama Census Data Project: https://github.com/JadenBailey/Alabama-Census-Data-Project
+
   * Researcher Jaden’s Pokemon Analysis: https://github.com/JadenBailey/Researcher-Jaden-s-Pokemon-Analysis
   
   * Purify Chamber Helper: https://github.com/JadenBailey/Purify-Chamber-Helper
