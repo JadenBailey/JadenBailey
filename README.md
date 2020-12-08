@@ -34,10 +34,7 @@
 <br />
 <br />
 
-## Projects 📈🤖
-
-<br />
-<br />
+### Projects 📈🤖
 
   * Researcher Jaden’s Pokemon Analysis: https://github.com/JadenBailey/Researcher-Jaden-s-Pokemon-Analysis
   
