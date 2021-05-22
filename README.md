@@ -1,11 +1,11 @@
 ### Jaden Bailey 😄
 
 <p align = "center">
-  <img src = "https://github.com/carlosfab/template_portfolio/blob/master/banner.png">
+  <img src = "https://media-exp1.licdn.com/dms/image/C5616AQGFQYN6cfVC0A/profile-displaybackgroundimage-shrink_350_1400/0/1602641968756?e=1626912000&v=beta&t=pTUXx3S8OZjG3T9RtmXIm1NJY9wpCwtvHnof_HTYs7k">
 </p>
 
 
-- 🎓 I am a senior Statistics major at San Diego State University.
+- 🎓 I am a recent graduate of San Diego State University with a B.S. in Statistics.
 
 - 📊 I am a detail oriented worker with a passion for completing tasks.
 
