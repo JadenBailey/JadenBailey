@@ -16,7 +16,7 @@
 
 ### Projects 📈🤖
 
-  * COVID-19 Data Exploration: https://github.com/JadenBailey/PortfolioProjects/blob/main/COVID%20Portfolio%20Project
+  * COVID-19 Data Exploration: https://github.com/JadenBailey/PortfolioProjects/blob/main/COVID%20Portfolio%20Project https://public.tableau.com/app/profile/jaden3821/viz/COVID-19Dashboard_16296803403630/Dashboard1
   
   * Alabama Census Data Project: https://github.com/JadenBailey/Alabama-Census-Data-Project
 
