@@ -3,8 +3,6 @@
 
 - 🎓 I am a recent graduate of San Diego State University with a B.S. in Statistics.
 
-- 📊 I am a detail-oriented worker with a passion for completing tasks.
-
 - 💻 Proficient in: SQL, Tableau, Excel, R, and Python.
 
 
