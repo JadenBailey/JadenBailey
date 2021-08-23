@@ -1,15 +1,11 @@
 ### Jaden Bailey 😄
 
-<p align = "center">
-  <img src = "https://media-exp1.licdn.com/dms/image/C5616AQGFQYN6cfVC0A/profile-displaybackgroundimage-shrink_350_1400/0/1602641968756?e=1626912000&v=beta&t=pTUXx3S8OZjG3T9RtmXIm1NJY9wpCwtvHnof_HTYs7k">
-</p>
-
 
 - 🎓 I am a recent graduate of San Diego State University with a B.S. in Statistics.
 
 - 📊 I am a detail-oriented worker with a passion for completing tasks.
 
-- 💻 Proficient in: Python, R, and SAS.
+- 💻 Proficient in: SQL, Tableau, Excel, R, and Python.
 
 
 ### Contacts 📭
@@ -36,6 +32,8 @@
 
 ### Projects 📈🤖
 
+  * COVID-19 Data Exploration: https://github.com/JadenBailey/PortfolioProjects/blob/main/COVID%20Portfolio%20Project
+  
   * Alabama Census Data Project: https://github.com/JadenBailey/Alabama-Census-Data-Project
 
   * Researcher Jaden’s Pokemon Analysis: https://github.com/JadenBailey/Researcher-Jaden-s-Pokemon-Analysis
