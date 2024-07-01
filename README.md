@@ -1,9 +1,9 @@
 ### Jaden Bailey 😄
 
 
-- 🎓 I am a recent graduate of San Diego State University with a B.S. in Statistics.
+- 🎓 I am a self taught data analyst and a graduate from San Diego State University with a B.S. in Statistics.
 
-- 💻 Proficient in: SQL, Tableau, Excel, R, and Python.
+- 💻 Proficient in: SQL, Tableau, and Microsoft Excel.
 
 
 ### Contacts 📭
@@ -13,6 +13,8 @@
 <br/>
 
 ### Projects 📈🤖
+
+  * Billionaire Data Analysis: https://github.com/JadenBailey/Billionaire-Data-Analysis
 
   * COVID-19 Data Exploration: https://github.com/JadenBailey/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql https://public.tableau.com/app/profile/jaden3821/viz/COVID-19Dashboard_16296803403630/Dashboard1
   
