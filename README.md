@@ -14,6 +14,8 @@
 
 ### Projects 📈🤖
 
+  * Absenteeism Dashboard: https://github.com/JadenBailey/Absenteeism-Dashboard
+
   * Billionaire Data Analysis: https://github.com/JadenBailey/Billionaire-Data-Analysis
 
   * COVID-19 Data Exploration: https://github.com/JadenBailey/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql https://public.tableau.com/app/profile/jaden3821/viz/COVID-19Dashboard_16296803403630/Dashboard1
